@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Miniko",
+      "password": "Miniko",
+      "clicks": 1e+27
+    },
+    {
+      "name": "ESTRAMGULADOR DE PORCO UM DOIS TRES",
+      "password": "palduro123",
+      "clicks": 100
+    },
+    {
+      "name": "PedroxMarques",
+      "password": "pedrox123",
+      "clicks": 36
+    },
+    {
+      "name": "borabill",
+      "password": "receba123",
+      "clicks": 1403
+    }
+  ]
+}
